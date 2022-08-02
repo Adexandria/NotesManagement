@@ -1,0 +1,15 @@
+C:\Users\T14\Downloads\CCSA_Web\CCSA_Web\CCSA_Web.Infrastructure\bin\Debug\net6.0\CCSA_Web.Infrastructure.deps.json
+C:\Users\T14\Downloads\CCSA_Web\CCSA_Web\CCSA_Web.Infrastructure\bin\Debug\net6.0\CCSA_Web.Infrastructure.dll
+C:\Users\T14\Downloads\CCSA_Web\CCSA_Web\CCSA_Web.Infrastructure\bin\Debug\net6.0\CCSA_Web.Infrastructure.pdb
+C:\Users\T14\Downloads\CCSA_Web\CCSA_Web\CCSA_Web.Infrastructure\bin\Debug\net6.0\CCSA_Web.Domain.dll
+C:\Users\T14\Downloads\CCSA_Web\CCSA_Web\CCSA_Web.Infrastructure\bin\Debug\net6.0\CCSA_Web.Domain.pdb
+C:\Users\T14\Downloads\CCSA_Web\CCSA_Web\CCSA_Web.Infrastructure\obj\Debug\net6.0\CCSA_Web.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\T14\Downloads\CCSA_Web\CCSA_Web\CCSA_Web.Infrastructure\obj\Debug\net6.0\CCSA_Web.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T14\Downloads\CCSA_Web\CCSA_Web\CCSA_Web.Infrastructure\obj\Debug\net6.0\CCSA_Web.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\T14\Downloads\CCSA_Web\CCSA_Web\CCSA_Web.Infrastructure\obj\Debug\net6.0\CCSA_Web.Infrastructure.AssemblyInfo.cs
+C:\Users\T14\Downloads\CCSA_Web\CCSA_Web\CCSA_Web.Infrastructure\obj\Debug\net6.0\CCSA_Web.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\T14\Downloads\CCSA_Web\CCSA_Web\CCSA_Web.Infrastructure\obj\Debug\net6.0\CCSA_Web.Infrastructure.csproj.CopyComplete
+C:\Users\T14\Downloads\CCSA_Web\CCSA_Web\CCSA_Web.Infrastructure\obj\Debug\net6.0\CCSA_Web.Infrastructure.dll
+C:\Users\T14\Downloads\CCSA_Web\CCSA_Web\CCSA_Web.Infrastructure\obj\Debug\net6.0\refint\CCSA_Web.Infrastructure.dll
+C:\Users\T14\Downloads\CCSA_Web\CCSA_Web\CCSA_Web.Infrastructure\obj\Debug\net6.0\CCSA_Web.Infrastructure.pdb
+C:\Users\T14\Downloads\CCSA_Web\CCSA_Web\CCSA_Web.Infrastructure\obj\Debug\net6.0\ref\CCSA_Web.Infrastructure.dll
